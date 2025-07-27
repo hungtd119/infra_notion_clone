@@ -1,6 +1,6 @@
 image:
   repository: yourdockerhubuser/golang-gin-app
-  tag: v1
+  tag: v6
   pullPolicy: IfNotPresent
 
 service:
