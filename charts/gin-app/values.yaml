@@ -1,5 +1,5 @@
 image:
-  repository: yourdockerhubuser/golang-gin-app
+  repository: hungit2002/golang-gin-app
   tag: v6
   pullPolicy: IfNotPresent
 
