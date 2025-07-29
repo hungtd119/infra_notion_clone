@@ -1,6 +1,6 @@
 image:
   repository: hungit2002/golang-gin-app
-  tag: v10
+  tag: v11
   pullPolicy: IfNotPresent
 
 service:
